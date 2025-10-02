@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=👋+Hey+there!+I'm+Anjani+Kumar+Singh;💻+Full+Stack+Developer+%7C+🤖+AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+I'm+Anjani+Kumar+Singh;Full+Stack+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <!-- Animated Snake eating contributions -->
@@ -45,146 +45,7 @@
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- About Me Section with Rich Content -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  About Me
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-</h2>
 
-<br/>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 👨‍💻 Who Am I?
-
-> *"Transforming complex problems into elegant, user-centered solutions"* ✨
-
-Hey there! I'm **Anjani Kumar Singh**, a passionate **Full Stack Developer** and **AI/ML Enthusiast** currently leading the tech team at **RaahiKart Tech Private Limited**. 
-
-**What drives me?** Building scalable applications that solve real-world problems and create meaningful impact. I combine deep technical expertise with leadership skills to transform innovative ideas into reality.
-
-### 🎯 My Journey
-
-- 🚀 **Leading RaahiKart** - A revolutionary peer-to-peer logistics platform
-- 🏗️ **Building from Scratch** - Designed entire architectures for web applications
-- 🤖 **Transitioning to AI/ML** - Diving deep into Natural Language Processing and Machine Learning
-- 👥 **Team Leadership** - Managing cross-functional teams and mentoring developers
-- 💡 **Problem Solver** - Active on LeetCode and HackerRank, solving complex algorithms
-
-### 💼 Current Focus
-
-- **Full Stack Development** with React, Node.js, and MongoDB
-- **AI/ML Projects** involving NLP, Text Summarization, and Predictive Analytics
-- **Startup Growth** - Scaling RaahiKart and exploring new tech horizons
-- **Continuous Learning** - Always exploring cutting-edge technologies
-
-### 🌟 Core Strengths
-
-- ✅ End-to-end product development
-- ✅ Scalable architecture design
-- ✅ Team management & leadership
-- ✅ Problem-solving mindset
-- ✅ User-centric approach
-
-<br clear="both"/>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Tech Stack with Animated Icons -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  Technology Arsenal
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-</h2>
-
-<br/>
-
-<!-- Languages -->
-<details open>
-<summary><h3>💻 Programming Languages</h3></summary>
-<br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,html,css,sql" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-</details>
-
-<!-- Frontend Technologies -->
-<details open>
-<summary><h3>🎨 Frontend Technologies</h3></summary>
-<br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,figma,vite" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-</details>
-
-<!-- Backend Technologies -->
-<details open>
-<summary><h3>⚙️ Backend & Database</h3></summary>
-<br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,redis,firebase,graphql" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
-</details>
-
-<!-- Tools & Others -->
-<details open>
-<summary><h3>🛠️ Tools & Platforms</h3></summary>
-<br/>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,bash,vim,npm,yarn" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
-</details>
-
-<br/>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub Stats with Advanced Visuals -->
 <h2 align="center">
@@ -201,129 +62,65 @@ Hey there! I'm **Anjani Kumar Singh**, a passionate **Full Stack Developer** and
 </div>
 
 <br/>
-
+<!-- Activity Graph -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjani-kr-singh-ai&layout=compact&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&langs_count=10&exclude_repo=repo1,repo2" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=anjani-kr-singh-ai&bg_color=0d1117&color=667eea&line=f093fb&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjani-kr-singh-ai&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Over%20Time" alt="Activity Graph" width="100%"/>
 </div>
 
 <br/>
 
-<!-- Trophy Section -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjani-kr-singh-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</div>
 
 <br/>
-
-<!-- Additional Stats -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjani-kr-singh-ai&theme=tokyonight" alt="Profile Summary" width="98%"/>
-</div>
-
-<br/>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Education Section -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  Education & Achievements
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-</h2>
-
-<br/>
-
+<!-- 🎯 Technical Expertise -->
 <div align="center">
 
-### 🎓 B.Tech in Computer Science and Engineering
-**Indian Institute of Information Technology, Kurnool**
+## ⚡ Technical Expertise
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<!-- Coding Profiles & Achievements -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  Competitive Programming
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-</h2>
-
-<br/>
-
-<div align="center">
-  
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAnjani_Kumar_Singh&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Anjani_Kumar_Singh/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anjaniKumarSingh)
-
-</div>
-
-<br/>
-
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Skills Matrix -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  Skills & Expertise Matrix
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-</h2>
-
-<br/>
-
 <div align="center">
 
-<table>
-  <tr>
-    <th>💼 Skill Domain</th>
-    <th>📅 Experience</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Full_Stack_Development-667eea?style=flat-square&logo=stackshare&logoColor=white" /></td>
-    <td><strong>2+ years</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/React.js_&_Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" /></td>
-    <td><strong>1+ years</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Node.js_&_Backend-43853D?style=flat-square&logo=node.js&logoColor=white" /></td>
-    <td><strong>1+ years</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Database_Management-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /></td>
-    <td><strong>1+ years</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Leadership_&_Management-764ba2?style=flat-square&logo=target&logoColor=white" /></td>
-    <td><strong>1+ year</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Problem_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></td>
-    <td><strong>1+ years</strong></td>
-  </tr>
-</table>
-
+### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/⚛️_React-Advanced-61DAFB?style=for-the-badge&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/▲_Next.js-Advanced-000000?style=for-the-badge&labelColor=FFFFFF&logoColor=000"/>
+  <img src="https://img.shields.io/badge/🔄_Redux-Advanced-764ABC?style=for-the-badge&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/🎨_Tailwind-Advanced-38B2AC?style=for-the-badge&labelColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/💎_Bootstrap-Intermediate-7952B3?style=for-the-badge&labelColor=563D7C"/>
+  <img src="https://img.shields.io/badge/🎭_Material_UI-Intermediate-007FFF?style=for-the-badge&labelColor=0081CB"/>
+</p>
 </div>
+### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/🟢_Node.js-Advanced-339933?style=for-the-badge&labelColor=026E00"/>
+  <img src="https://img.shields.io/badge/⚡_Express-Advanced-000000?style=for-the-badge&labelColor=FFFFFF&logoColor=000"/>
+  <img src="https://img.shields.io/badge/🍃_MongoDB-Advanced-47A248?style=for-the-badge&labelColor=4DB33D"/>
+  <img src="https://img.shields.io/badge/🐘_PostgreSQL-Intermediate-4169E1?style=for-the-badge&labelColor=336791"/>
+  <img src="https://img.shields.io/badge/🐬_MySQL-Intermediate-4479A1?style=for-the-badge&labelColor=00758F"/>
+  <img src="https://img.shields.io/badge/⚡_Redis-Intermediate-DC382D?style=for-the-badge&labelColor=A41E11"/>
+  <img src="https://img.shields.io/badge/🔥_Firebase-Intermediate-FFCA28?style=for-the-badge&labelColor=FFA000"/>
+  <img src="https://img.shields.io/badge/📊_GraphQL-Intermediate-E10098?style=for-the-badge&labelColor=C00095"/>
+</p>
 
-<br/>
+### 🛠️ Development Tools
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
-
 <br/>
+
 
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -389,18 +186,6 @@ Hey there! I'm **Anjani Kumar Singh**, a passionate **Full Stack Developer** and
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Fun Section -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  Random Dev Quote
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-</h2>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
 
 <br/>
 
@@ -411,24 +196,8 @@ Hey there! I'm **Anjani Kumar Singh**, a passionate **Full Stack Developer** and
   <img src="https://img.shields.io/github/stars/anjani-kr-singh-ai?label=Stars&style=for-the-badge&color=f093fb" alt="Stars"/>
 </div>
 
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjani-kr-singh-ai&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Over%20Time" alt="Activity Graph" width="100%"/>
-</div>
-
-<br/>
-
-<!-- Footer Quote -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-<br/>
-
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+✨;Let's+build+something+amazing+together!+🚀;Always+learning%2C+always+growing!+🌱" alt="Footer Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Thanks+For+Visiting;Let's+Build+Something+Together;Always+Learning%2C+Always+Growing" alt="Footer Text" />
 </h3>
 
 <br/>
