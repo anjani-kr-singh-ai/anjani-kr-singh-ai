@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+I'm+Anjani+Kumar+Singh;Full+Stack+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=635&lines=Hi+I'm+Anjani+Kumar+Singh;Full+Stack+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <!-- Animated Snake eating contributions -->
@@ -197,7 +197,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Thanks+For+Visiting;Let's+Build+Something+Together;Always+Learning%2C+Always+Growing" alt="Footer Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=475&lines=Thanks+For+Visiting+The+Profile;Let's+Build+Something+Together;Always+Learning%2C+Always+Growing" alt="Footer Text" />
 </h3>
 
 <br/>
