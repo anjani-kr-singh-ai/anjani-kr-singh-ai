@@ -91,7 +91,8 @@
   <img src="https://img.shields.io/badge/🎭_Material_UI-Intermediate-007FFF?style=for-the-badge&labelColor=0081CB"/>
 </p>
 </div>
-
+<div align="center">
+  
 ### ⚙️ Backend Development
 
 <p>
@@ -104,6 +105,9 @@
   <img src="https://img.shields.io/badge/🔥_Firebase-Intermediate-FFCA28?style=for-the-badge&labelColor=FFA000"/>
   <img src="https://img.shields.io/badge/📊_GraphQL-Intermediate-E10098?style=for-the-badge&labelColor=C00095"/>
 </p>
+</div>
+
+<div align="center">
 
 ### 🛠️ Development Tools
 <p>
@@ -122,7 +126,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 <br/>
-
+</div>
 
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
